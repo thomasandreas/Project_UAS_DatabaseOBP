@@ -1,0 +1,24 @@
+import javax.swing.*;
+import java.awt.*;
+
+class ButtonPanel9 extends JPanel {
+    JButton btnAdd = new JButton("Add New");
+    JButton btnUpdate = new JButton("Update");
+    JButton btnDelete = new JButton("Delete");
+    JButton btnClose = new JButton("Close");
+
+
+
+    public ButtonPanel9() {
+        setLayout(new GridLayout(1, 4));
+        add(btnAdd);
+        add(btnUpdate);
+        add(btnDelete);
+        add(btnClose);
+
+        btnUpdate.addActionListener(new Kelas9EditPanel.buttonupdate());
+        btnDelete.addActionListener(new Kelas9EditPanel.buttondelete());
+        btnAdd.addActionListener(new Kelas9EditPanel.buttonadd());
+        btnClose.addActionListener(new Kelas9EditPanel.CloseListener());
+    }
+}
