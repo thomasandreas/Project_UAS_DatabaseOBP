@@ -1,6 +1,6 @@
 # UAS Object Based Programming
 
-Selamat Pagi/Siang/Sore/Malam kepada yang terhormat Bapak Janson Hendryli S. Kom. M.Kom. selaku dosen mata kuliah Object Based Programming. Berikut kami kumpulkan UAS Object Based Programming. Penjelasan projek terlampir :)
+Selamat Pagi/Siang/Sore/Malam kepada yang terhormat Bapak Janson Hendryli S. Kom. M.Kom. selaku dosen mata kuliah Object Based Programming. Berikut kami kumpulkan UAS Object Based Programming. Penjelasan project terlampir di bawah.
 
 # Anggota Kelompok
 - Jensen Wang (825190020)
